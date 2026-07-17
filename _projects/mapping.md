@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Mapping
-description: A map created using OpenStreetMap data as part of the ESIIL short course on GitHub and environmental assessment.
-img: assets/img/cu_map1.html
+description: An interactive OpenStreetMap project from the ESIIL short course.
+img: assets/img/mapping_Thumb.png
 importance: 1
 category: work
 ---
